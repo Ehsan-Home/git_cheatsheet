@@ -12,8 +12,9 @@ Free to use for anyone in anywhere 😃
 2.`git status` : Showing the status of git files (whether they are unstaged or staged)<br />
 3.`git log`: List all commits<br />
 4.`git add <NAME OF FILES>` : Staging files<br />
-  - `git add “page*”` : All files starting with *page* keyword<br />
-  - `git add -A` : All changed files<br />
+  -`git add “page*”` : All files starting with *page* keyword<br />
+  -`git add -A` : All changed files<br />
+ 
 5-`git commit -m <MESSAGE>` : Making commitment<br />
 6- `git diff HEAD` : Comparing HEAD to untagged and staged changes(doesn’t matter)<br />
 7- `git diff —staged` : Comparing staged files to HEAD<br />
